@@ -39,6 +39,14 @@
       "image": "./assets/ramen/kojiro.jpg",
       "rating": 6,
       "comment": "Perfect for a cold night."
+    },
+    {
+      "name": "Good Ramen",
+      "restaurant": "Good Ramen Place",
+      "image": "https://www.shutterstock.com/image-vector/vector-cartoon-japanese-ramen-on-600w-1408674968.jpg",
+      "rating": "10",
+      "comment": "v good ramen ",
+      "id": 6
     }
   ]
 }
